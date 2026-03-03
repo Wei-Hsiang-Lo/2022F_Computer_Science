@@ -1,2 +1,7 @@
 # 2022F_Computer_Science
-Basic implementation of CPP
+Each file implements the code to solve the problem assigned from the professor.
+
+## Course Information
+* Teacher：陳秋媛
+* Perminant Course ID：SCMA10022
+* Couse Name：Introduction to Computer Science
